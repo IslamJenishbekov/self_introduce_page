@@ -1,1 +1,35 @@
+body {
+  background-color: #e0fbb9;
+  }
 
+#container {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+
+header {
+  font-size: 40px;
+  text-align: center;
+  background-color: gray;
+  color: white;
+}
+
+#body {
+  background-color: #f8ffc7;
+  font-size: 20px;
+  padding: 10px;
+}
+
+#profile img {
+  border: 3px solid;
+}
+
+#bio {
+  padding: 2px;
+}
+
+footer {
+  text-align: right;
+}
